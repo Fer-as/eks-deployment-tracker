@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+.npm-cache/
+
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+
+.vscode/
+.idea/
+.DS_Store
